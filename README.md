@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install bak_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+@copyright=BakViewTool::Rendrer.copyright "Omar El Bakali", "all rights reserved"
+```
 
 ## Development
 
